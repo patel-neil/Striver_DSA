@@ -447,39 +447,6 @@ int main()
     3 3 3 3 3
     */
 
-    //Code not working
-    // for(int i=0; i<(2*n)-1; i++)
-    // {
-    //     for(int k=n; k>0; k--)
-    //     {
-    //         if(i == 0 || i == (2*n)-2)
-    //         {
-    //             for(int j=0; j<(2*n)-1; j++)
-    //             {
-    //                 cout << k << " ";
-    //             }
-    //         }
-    //         else
-    //         {
-    //             for(int j=0; j<2*n-1; j++)
-    //             {
-    //                 if(j == 0 || j == 2*(n-1))
-    //                 {
-    //                     cout << k << " ";
-    //                 }
-    //                 else{
-    //                     cout << "  ";
-    //                 }
-    //             }
-    //         }
-    //     }
-    //     cout << endl;
-    // }
-
-    //Working code
-
-    //Distance
-
     int top, bottom, right, left;
 
     for(int i=0; i< 2*n-1; i++)
