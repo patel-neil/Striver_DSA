@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/patel-neil/Striver_DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/patel-neil/Striver_DSA/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
 | ------- |
