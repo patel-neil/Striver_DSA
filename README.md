@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/patel-neil/Striver_DSA/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/patel-neil/Striver_DSA/tree/master/0507-perfect-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/patel-neil/Striver_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
