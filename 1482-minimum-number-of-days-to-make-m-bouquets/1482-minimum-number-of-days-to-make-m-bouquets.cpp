@@ -36,7 +36,7 @@ public:
         return low;
     }
 
-    bool possible(vector<int> arr, int day, int m, int k)
+    bool possible(vector<int>& arr, int day, int m, int k)
     {
         int cnt = 0;
         int noofB = 0;
