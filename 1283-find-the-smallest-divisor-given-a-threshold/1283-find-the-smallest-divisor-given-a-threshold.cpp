@@ -28,7 +28,7 @@ public:
         return low;
     }
 
-    int sumofD(vector<int> arr, int mid)
+    int sumofD(vector<int>& arr, int mid)
     {
 
         int sum = 0;
