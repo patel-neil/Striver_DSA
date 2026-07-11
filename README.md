@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/patel-neil/Striver_DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 | [0507-perfect-number](https://github.com/patel-neil/Striver_DSA/tree/master/0507-perfect-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/patel-neil/Striver_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
@@ -81,8 +82,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
