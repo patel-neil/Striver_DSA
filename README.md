@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patel-neil/Striver_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
