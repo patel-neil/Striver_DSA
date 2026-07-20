@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/patel-neil/Striver_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/patel-neil/Striver_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/patel-neil/Striver_DSA/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/patel-neil/Striver_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/patel-neil/Striver_DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/patel-neil/Striver_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [1552-magnetic-force-between-two-balls](https://github.com/patel-neil/Striver_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
