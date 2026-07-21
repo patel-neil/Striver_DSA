@@ -11,8 +11,6 @@ public:
             n = n / 10;
         }
 
-        cout << digitSum<< " " << squareSum;
-
         return (squareSum - digitSum >= 50);
     }
 };
