@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/patel-neil/Striver_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/patel-neil/Striver_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/patel-neil/Striver_DSA/tree/master/1539-kth-missing-positive-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/patel-neil/Striver_DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/patel-neil/Striver_DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 ## Enumeration
 |  |
 | ------- |
