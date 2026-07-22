@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patel-neil/Striver_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
