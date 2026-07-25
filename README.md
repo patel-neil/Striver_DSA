@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0328-odd-even-linked-list) |
 ## Sliding Window
