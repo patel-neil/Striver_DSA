@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
+| [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/patel-neil/Striver_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/patel-neil/Striver_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
