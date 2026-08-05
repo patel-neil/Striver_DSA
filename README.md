@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
+| [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
@@ -233,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
