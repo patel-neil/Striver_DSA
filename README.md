@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/patel-neil/Striver_DSA/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/patel-neil/Striver_DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/patel-neil/Striver_DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/patel-neil/Striver_DSA/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
+| [0754-reach-a-number](https://github.com/patel-neil/Striver_DSA/tree/master/0754-reach-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/patel-neil/Striver_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/patel-neil/Striver_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/patel-neil/Striver_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
