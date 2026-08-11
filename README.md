@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/patel-neil/Striver_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/patel-neil/Striver_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patel-neil/Striver_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patel-neil/Striver_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/patel-neil/Striver_DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/patel-neil/Striver_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0206-reverse-linked-list) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
