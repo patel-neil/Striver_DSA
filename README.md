@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0476-number-complement](https://github.com/patel-neil/Striver_DSA/tree/master/0476-number-complement) |
 ## Recursion
 |  |
 | ------- |
