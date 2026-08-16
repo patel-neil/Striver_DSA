@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/patel-neil/Striver_DSA/tree/master/0476-number-complement) |
 ## Recursion
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
 |  |
