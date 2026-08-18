@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/patel-neil/Striver_DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
 ## Number Theory
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/patel-neil/Striver_DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/patel-neil/Striver_DSA/tree/master/0709-to-lower-case) |
 ## Stack
