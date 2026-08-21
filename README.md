@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patel-neil/Striver_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/patel-neil/Striver_DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/patel-neil/Striver_DSA/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/patel-neil/Striver_DSA/tree/master/0476-number-complement) |
