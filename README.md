@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/patel-neil/Striver_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patel-neil/Striver_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/patel-neil/Striver_DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patel-neil/Striver_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
