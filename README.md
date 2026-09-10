@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/patel-neil/Striver_DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patel-neil/Striver_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/patel-neil/Striver_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/patel-neil/Striver_DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/patel-neil/Striver_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/patel-neil/Striver_DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/patel-neil/Striver_DSA/tree/master/0263-ugly-number) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 ## Sorting
 |  |
@@ -360,4 +364,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/patel-neil/Striver_DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
