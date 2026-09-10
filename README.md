@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/patel-neil/Striver_DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/patel-neil/Striver_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/patel-neil/Striver_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/patel-neil/Striver_DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/patel-neil/Striver_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/patel-neil/Striver_DSA/tree/master/1539-kth-missing-positive-number) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/patel-neil/Striver_DSA/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/patel-neil/Striver_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/patel-neil/Striver_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/patel-neil/Striver_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
