@@ -18,10 +18,10 @@ public:
                 hashArr[s[l] - 'A']--;
                 maxFreq = 0;
 
-                for(int i=0; i<26; i++)
-                {
-                    maxFreq = max(maxFreq, hashArr[i]);
-                }
+                // for(int i=0; i<26; i++)
+                // {
+                //     maxFreq = max(maxFreq, hashArr[i]);
+                // }
                 l++;
             }
 
