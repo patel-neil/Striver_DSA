@@ -16,12 +16,6 @@ public:
             if(len - maxFreq > k)
             {
                 hashArr[s[l] - 'A']--;
-                maxFreq = 0;
-
-                // for(int i=0; i<26; i++)
-                // {
-                //     maxFreq = max(maxFreq, hashArr[i]);
-                // }
                 l++;
             }
 
