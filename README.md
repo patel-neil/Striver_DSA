@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/patel-neil/Striver_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/patel-neil/Striver_DSA/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/patel-neil/Striver_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/patel-neil/Striver_DSA/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/patel-neil/Striver_DSA/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/patel-neil/Striver_DSA/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/patel-neil/Striver_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/patel-neil/Striver_DSA/tree/master/0086-partition-list) |
