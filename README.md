@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/patel-neil/Striver_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/patel-neil/Striver_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/patel-neil/Striver_DSA/tree/master/0709-to-lower-case) |
