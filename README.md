@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/patel-neil/Striver_DSA/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/patel-neil/Striver_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/patel-neil/Striver_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/patel-neil/Striver_DSA/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
