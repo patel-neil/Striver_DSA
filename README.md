@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/patel-neil/Striver_DSA/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/patel-neil/Striver_DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/patel-neil/Striver_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/patel-neil/Striver_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/patel-neil/Striver_DSA/tree/master/1095-find-in-mountain-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/patel-neil/Striver_DSA/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/patel-neil/Striver_DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/patel-neil/Striver_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/patel-neil/Striver_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/patel-neil/Striver_DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/patel-neil/Striver_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/patel-neil/Striver_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/patel-neil/Striver_DSA/tree/master/0274-h-index) |
 | [0923-3sum-with-multiplicity](https://github.com/patel-neil/Striver_DSA/tree/master/0923-3sum-with-multiplicity) |
+| [0992-subarrays-with-k-different-integers](https://github.com/patel-neil/Striver_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Design
 |  |
 | ------- |
