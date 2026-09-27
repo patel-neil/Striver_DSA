@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/patel-neil/Striver_DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/patel-neil/Striver_DSA/tree/master/0231-power-of-two) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/patel-neil/Striver_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patel-neil/Striver_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/patel-neil/Striver_DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0264-ugly-number-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/patel-neil/Striver_DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/patel-neil/Striver_DSA/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/patel-neil/Striver_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 | [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 ## Merge Sort
 |  |
@@ -426,4 +431,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/patel-neil/Striver_DSA/tree/master/0204-count-primes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
