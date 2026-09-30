@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/patel-neil/Striver_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/patel-neil/Striver_DSA/tree/master/2951-find-the-peaks) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/patel-neil/Striver_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/patel-neil/Striver_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/patel-neil/Striver_DSA/tree/master/0412-fizz-buzz) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
+| [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/patel-neil/Striver_DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/patel-neil/Striver_DSA/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
