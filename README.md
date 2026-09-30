@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/patel-neil/Striver_DSA/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 | [0888-fair-candy-swap](https://github.com/patel-neil/Striver_DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/patel-neil/Striver_DSA/tree/master/0904-fruit-into-baskets) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/patel-neil/Striver_DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/patel-neil/Striver_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/patel-neil/Striver_DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/patel-neil/Striver_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/patel-neil/Striver_DSA/tree/master/0904-fruit-into-baskets) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/patel-neil/Striver_DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/patel-neil/Striver_DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/patel-neil/Striver_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/patel-neil/Striver_DSA/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/patel-neil/Striver_DSA/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
