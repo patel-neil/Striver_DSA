@@ -13,7 +13,7 @@ public:
                 zeroes++;
             }
 
-            while(zeroes > 1)
+            if(zeroes > 1)
             {
                 if(nums[l] == 0) zeroes--;
                 l++;
