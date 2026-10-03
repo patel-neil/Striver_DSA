@@ -464,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/patel-neil/Striver_DSA/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/patel-neil/Striver_DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
