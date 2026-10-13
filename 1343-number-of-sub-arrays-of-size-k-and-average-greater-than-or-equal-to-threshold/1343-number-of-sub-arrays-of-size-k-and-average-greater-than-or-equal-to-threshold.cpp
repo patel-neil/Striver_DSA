@@ -12,7 +12,7 @@ public:
             sum += arr[r];
             avg = sum / (r - l + 1);
 
-            while((r - l + 1) > k)
+            if((r - l + 1) > k)
             {
                 sum -= arr[l];
                 l++;
