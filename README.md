@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/patel-neil/Striver_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/patel-neil/Striver_DSA/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patel-neil/Striver_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/patel-neil/Striver_DSA/tree/master/1695-maximum-erasure-value) |
 | [1901-find-a-peak-element-ii](https://github.com/patel-neil/Striver_DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/patel-neil/Striver_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/patel-neil/Striver_DSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/patel-neil/Striver_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patel-neil/Striver_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/patel-neil/Striver_DSA/tree/master/1695-maximum-erasure-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/patel-neil/Striver_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/patel-neil/Striver_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/patel-neil/Striver_DSA/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patel-neil/Striver_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1695-maximum-erasure-value](https://github.com/patel-neil/Striver_DSA/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/patel-neil/Striver_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## String
 |  |
