@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/patel-neil/Striver_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/patel-neil/Striver_DSA/tree/master/1472-design-browser-history) |
 ## Counting Sort
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/patel-neil/Striver_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/patel-neil/Striver_DSA/tree/master/1472-design-browser-history) |
 ## Hash Function
@@ -479,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/patel-neil/Striver_DSA/tree/master/0176-second-highest-salary) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/patel-neil/Striver_DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
