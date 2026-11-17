@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/patel-neil/Striver_DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/patel-neil/Striver_DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/patel-neil/Striver_DSA/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/2679-sum-in-a-matrix) |
 | [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/patel-neil/Striver_DSA/tree/master/3477-fruits-into-baskets-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/patel-neil/Striver_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/patel-neil/Striver_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/patel-neil/Striver_DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/patel-neil/Striver_DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/patel-neil/Striver_DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 ## Stack
