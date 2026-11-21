@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/patel-neil/Striver_DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/patel-neil/Striver_DSA/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/patel-neil/Striver_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/patel-neil/Striver_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/patel-neil/Striver_DSA/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/patel-neil/Striver_DSA/tree/master/0706-design-hashmap) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/patel-neil/Striver_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/patel-neil/Striver_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/patel-neil/Striver_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0503-next-greater-element-ii) |
 | [1472-design-browser-history](https://github.com/patel-neil/Striver_DSA/tree/master/1472-design-browser-history) |
 ## Counting Sort
 |  |
@@ -519,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/patel-neil/Striver_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/patel-neil/Striver_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
