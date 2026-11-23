@@ -2,31 +2,28 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
+        
         vector<int> dp(n, -1);
 
-        return f(n - 1, nums, dp);
-    }
+        dp[0] = nums[0];
 
-    int f(int i, vector<int>& nums, vector<int>& dp) {
-        if (i == 0) {
-            dp[i] = nums[i];
-            return nums[i];
+        for(int i=1; i<n; i++)
+        {
+            int take = 0;
+            if(i > 1)
+            {
+                take = nums[i] + dp[i-2];
+            }
+            else
+            {
+                take = nums[i];
+            }
+
+            int not_take = dp[i-1];
+
+            dp[i] = max(take, not_take);
         }
 
-        if (i < 0) {
-            return 0;
-        }
-
-        if (dp[i] != -1) {
-            return dp[i];
-        }
-
-        int pick = nums[i] + f(i - 2, nums, dp);
-
-        int not_pick = f(i - 1, nums, dp);
-
-        dp[i] = max(pick, not_pick);
-
-        return dp[i];
+        return dp[n-1];
     }
 };
