@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/patel-neil/Striver_DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3248-snake-in-matrix](https://github.com/patel-neil/Striver_DSA/tree/master/3248-snake-in-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/patel-neil/Striver_DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3840-house-robber-v](https://github.com/patel-neil/Striver_DSA/tree/master/3840-house-robber-v) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/patel-neil/Striver_DSA/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/patel-neil/Striver_DSA/tree/master/0410-split-array-largest-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/patel-neil/Striver_DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3840-house-robber-v](https://github.com/patel-neil/Striver_DSA/tree/master/3840-house-robber-v) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
