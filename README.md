@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/patel-neil/Striver_DSA/tree/master/0754-reach-a-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/patel-neil/Striver_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2119-a-number-after-a-double-reversal](https://github.com/patel-neil/Striver_DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/patel-neil/Striver_DSA/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/patel-neil/Striver_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/patel-neil/Striver_DSA/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/patel-neil/Striver_DSA/tree/master/3536-maximum-product-of-two-digits) |
